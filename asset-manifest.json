@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Tailwincss-Web/static/css/main.a196e755.css",
+    "main.js": "/React-Tailwincss-Web/static/js/main.272e4ca4.js",
+    "static/media/video.mp4": "/React-Tailwincss-Web/static/media/video.a2703484bb9eee7d0c2e.mp4",
+    "static/media/subscribe.jpg": "/React-Tailwincss-Web/static/media/subscribe.5e6ecdcfa451a31625d0.jpg",
+    "static/media/terminal.png": "/React-Tailwincss-Web/static/media/terminal.008c23b28e62ddbd576c.png",
+    "index.html": "/React-Tailwincss-Web/index.html",
+    "main.a196e755.css.map": "/React-Tailwincss-Web/static/css/main.a196e755.css.map",
+    "main.272e4ca4.js.map": "/React-Tailwincss-Web/static/js/main.272e4ca4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a196e755.css",
+    "static/js/main.272e4ca4.js"
+  ]
+}
